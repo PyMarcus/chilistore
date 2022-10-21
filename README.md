@@ -4,4 +4,4 @@ A simple application with flask
 
 
 
-![Screenshot_2022-10-20_22_47_41](https://user-images.githubusercontent.com/88283829/197100473-c0c11279-6d37-441d-9e34-9f16b5685e39.png)
+![Screenshot_2022-10-20_22_56_37](https://user-images.githubusercontent.com/88283829/197100779-e4733d9b-5620-4732-a4dd-fd1fbc6329fd.png)
