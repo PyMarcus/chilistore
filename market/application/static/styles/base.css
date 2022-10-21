@@ -1,0 +1,45 @@
+
+*{
+    box-sizing: border-box!important;
+}
+
+
+html{
+    font-size: 1rem;
+}
+
+
+@media(max-width: 479px){
+    header nav h1{
+        font-size: 1.4rem;
+        padding-top: 10px;
+    }
+
+    header nav{
+        display: flex;
+        align-content: center;
+        width:100%;
+    }
+    header{
+        oveflow-x: hidden;
+    }
+
+    img[class=chill-nav]{
+        width: 35px;
+        height: 35px;
+    }
+
+    .button{
+        font-size: 0.6rem;
+    }
+}
+
+.chill-nav{ /*invert color of border*/
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
+
+img[class="chill-nav"]{
+    width=10px;
+    height=10px;
+}
